@@ -13,7 +13,7 @@ body {
   margin: auto;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 650px) {
   .container {
     width: 100%;
   }
@@ -128,7 +128,7 @@ nav.mobile {
   display: none;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 650px) {
   nav.desktop {
     display: none;
   }
@@ -241,7 +241,7 @@ nav.mobile {
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 650px) {
   .tagline a {
     width: 100%;
     background-color: #383838;
@@ -331,7 +331,7 @@ nav.mobile {
   background-color: #DCDCDC;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 650px) {
   .practice .left-section {
     display: none;
   }
@@ -453,7 +453,7 @@ nav.mobile {
   color: gray;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 650px) {
   .learning {
     border-top: 1px solid #DCDCDC;
     border-bottom: 1px solid #DCDCDC;
@@ -548,7 +548,7 @@ nav.mobile {
   color: #939292;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 650px) {
   .thesis .headline {
     margin-bottom: 32px;
   }
@@ -613,7 +613,7 @@ nav {
   color: #808080;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 650px) {
   footer {
     border-top: 0px;
   }
